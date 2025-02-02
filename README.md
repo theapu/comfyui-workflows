@@ -39,8 +39,8 @@ Check for the URL after 'This is the URL to access ComfyUI:' under the log windo
 
 ## Sample ComfyUI workflows.
 ### FLUX LORA.json 
-This is a simple flow to generate images using FLUX model and a LORA. Import the flow using ComfyUI and install missing custom nodes and restart ComfyUI.
+This is a simple flow to generate images using FLUX model and a LORA. Import the flow using ComfyUI and install missing custom nodes and restart ComfyUI. If any models used in any nodes are missing they can be installed using ComfyUI manager.
 
 ### COMFYUI_CHARACTER.json 
 This is a complex workflow based on https://youtu.be/Uls_jXy9RuU?si=cy46qV5O1bleD8Dy
-You may need to upload Pose_sheet_v02.png and sample.webp to relevant nodes in this workflow.
+You may need to upload Pose_sheet_v02.png and sample.webp to relevant nodes in this workflow. If any models used in any nodes are missing they can be installed using ComfyUI manager.
