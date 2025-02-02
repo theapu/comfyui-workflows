@@ -1,6 +1,6 @@
 The repository contains Jupyter notbooks for using in vast.ai GPU container instance (may work in google colab too) to start a ComfyUI environment. Some example workflows are included as well.
 
-# Jupyter notebook for configuring google colab
+# Jupyter notebook for configuring in vast.ai or google colab
 ## ComfyUI.ipynb
 Create a GPU VM container in vast.ai. I use this containter instance template https://cloud.vast.ai/?ref_id=198451&creator_id=198451&name=NVIDIA%20CUDA%2012.1.1%20(Ubuntu).
 
